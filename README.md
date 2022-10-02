@@ -7,7 +7,7 @@
 Директор хочет определить, какой из сотрудников на каком такси должен поехать домой, чтобы суммарные затраты на такси были минимальны. 
 # Среда прогаммирования
 Программа написана на языке python в Visual Studio 2019.
-Тест 1
-https://user-images.githubusercontent.com/113615651/190912445-2138bec0-99cb-4866-8ce0-b9d5cc6b0258.png
-Тест 2
-https://user-images.githubusercontent.com/113615651/190912445-2138bec0-99cb-4866-8ce0-b9d5cc6b0258.png
+# Тест 1
+![Снимок экрана (62)](https://user-images.githubusercontent.com/113615651/193471178-3514546e-1088-48c1-a6f1-e54e5476224b.png)
+# Тест 2
+![Снимок экрана (63)](https://user-images.githubusercontent.com/113615651/193471182-f76c2d68-cbe5-47c2-be62-6a6a75209288.png)
