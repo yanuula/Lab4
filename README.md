@@ -8,5 +8,6 @@
 # Среда прогаммирования
 Программа написана на языке python в Visual Studio 2019.
 Тест 1
-
+https://user-images.githubusercontent.com/113615651/190912445-2138bec0-99cb-4866-8ce0-b9d5cc6b0258.png
 Тест 2
+https://user-images.githubusercontent.com/113615651/190912445-2138bec0-99cb-4866-8ce0-b9d5cc6b0258.png
