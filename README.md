@@ -9,6 +9,6 @@
 # Среда прогаммирования
 Программа написана на языке python в Visual Studio 2019.
 # Тест 1
-![Снимок экрана (62)](https://user-images.githubusercontent.com/113615651/193471178-3514546e-1088-48c1-a6f1-e54e5476224b.png)
+![Снимок экрана (71)](https://user-images.githubusercontent.com/113615651/196681614-d0e33428-4538-4df9-b290-b1d2d28490e5.png)
 # Тест 2
-![Снимок экрана (63)](https://user-images.githubusercontent.com/113615651/193471182-f76c2d68-cbe5-47c2-be62-6a6a75209288.png)
+![Снимок экрана (72)](https://user-images.githubusercontent.com/113615651/196681671-32f61504-af7a-4121-a4b5-61485b8166dc.png)
