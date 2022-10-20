@@ -39,5 +39,5 @@ while True:
     for i in range(employees_num):
         sum += distance_list[index_list_d[i]]*price_list[index_list_p[i]]
     print('Сумма: ')
-    print(sum) #Вывод суммы 
+    print(sum) #Вывод суммы
     rub.out(sum) 
