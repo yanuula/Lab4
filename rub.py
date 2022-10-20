@@ -56,7 +56,7 @@ def out(number):
             output.append(a2)
     if len_check > 3:
         output.append('тысяч')
-    #Подбираем падежа
+    #Подбираем падеж
     if result[2] != '0':
         if result[1] != '1':
             if result[2] == '1':
@@ -115,7 +115,7 @@ def out(number):
             if result[5] == '8': a5 = 'восемь'
             if result[5] == '9': a5 = 'девять'
             output.append(a5)
-    #Подбираем падежа
+    #Подбираем падеж
     output.append('рублей')
     if result[5] != '0':
         if result[4] != '1':
